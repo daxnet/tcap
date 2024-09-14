@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcap.App", "Tcap.App\Tcap.App.csproj", "{EB21E146-9D4B-462D-A5BB-C6F6A6900D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB21E146-9D4B-462D-A5BB-C6F6A6900D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB21E146-9D4B-462D-A5BB-C6F6A6900D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB21E146-9D4B-462D-A5BB-C6F6A6900D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB21E146-9D4B-462D-A5BB-C6F6A6900D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC982F7B-13C0-4124-B3C2-BF6F2E6CE336}
+	EndGlobalSection
+EndGlobal
